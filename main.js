@@ -5,7 +5,7 @@ const eatingSound = new Audio('Audio/eating.mp4');
 const moveSound = new Audio('Audio/angle.mp3');
 const deadSound = new Audio('Audio/dead.mp4');
 let lrtime = 0;
-let speed = 15;
+let speed = 12;
 let score = 0;
 let snakeArr = [
     {x: 13,y: 15}
